@@ -1,6 +1,6 @@
-# **Machine Learning Projects Template**
+# **Machine Learning Operation Projects**
 
-![workflow status](https://github.com/rohwid/machine-learning-project-template/actions/workflows/builder.yml/badge.svg)
+![workflow status](https://github.com/axeltanjung/mlops-project/actions/workflows/builder.yml/badge.svg)
 
 Steps:
 + Select **Use this template** > **Create a new repository**. This menu is in the top right corner of this repository.
@@ -11,7 +11,7 @@ Steps:
     ```bash
     virtualenv .venv -p /usr/bin/python3.10
     ```
-  **Note:** You can use any Python version, as long the Python packages in `requirements.txt` are supported. Because of the Python packages in `requirements.txt` were declared without describe the version.
+  **Note:** You can use any Pyton version, as long the Python packages in `requirements.txt` are supported. Because of the Python packages in `requirements.txt` were declared without describe the version.
 + Activate the virtual environment
 
     ```bash
